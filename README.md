@@ -6,7 +6,7 @@ Programmer
 
 I've been learning web development and computer science for a few years. Looking for my first work experience
 
-* 🌍  I'm based in São Paulo Brazil
+* 🌍  I'm based in Joinville, SC. Brazil
 * ✉️  You can contact me at [pedro.devsc@outlook.com](mailto:pedro.devsc@outlook.com)
 * 🧠  I'm learning Python's Flask and Java's Tomcat
 * 🤝  I'm open to collaborating on Projects

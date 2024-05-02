@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Programmer
 ----------
 
-I've been learning web development and computer science for a few years. Looking for my first work experience
+I'm here to learn and to explore cool projects.
 
-* 🌍  I'm based in Joinville, SC. Brazil
+* 🌍  I'm based in Joinville, SC Brazil.
 * ✉️  You can contact me at [pedro.devsc@outlook.com](mailto:pedro.devsc@outlook.com)
 * 🧠  I'm learning Python's Flask and Java's Tomcat
 * 🤝  I'm open to collaborating on Projects

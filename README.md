@@ -8,7 +8,7 @@ I'm here to learn and to explore cool projects.
 
 * 🌍  I'm based in Joinville, SC Brazil.
 * ✉️  You can contact me at [pedro.devsc@outlook.com](mailto:pedro.devsc@outlook.com)
-* 🧠  I'm learning Python's Flask and Java's Tomcat
+* 🧠  I'm learning Python's Flask and Java's Spring Boot
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills

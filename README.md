@@ -15,7 +15,10 @@
 
 <a href="https://github.com/Diolemos" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diolemos&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-### 🐍 GitHub Snake Game
 
-![Snake animation (light mode)](https://github.com/Diolemos/snk/raw/output/github-snake.svg#gh-light-mode-only)
-![Snake animation (dark mode)](https://github.com/Diolemos/snk/raw/output/github-snake-dark.svg#gh-dark-mode-only)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
